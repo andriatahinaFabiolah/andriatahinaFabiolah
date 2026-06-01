@@ -1,16 +1,26 @@
-## Hi there 👋
+## Bonjour 👋
 
-<!--
-**andriatahinaFabiolah/andriatahinaFabiolah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Andriatahina Fabiolah
 
-Here are some ideas to get you started:
+💻 Développeuse Web Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionnée par le développement d'applications web modernes avec React.js, Node.js et Express.js.
+
+## ⚡ Technologies
+
+React.js • Node.js • Express.js • MySQL • JavaScript • HTML • CSS
+
+## 🚀 Ce que j'aime construire
+
+- Interfaces web modernes
+- APIs REST
+- Applications Full Stack
+- Expériences utilisateur intuitives
+
+## 🌱 En apprentissage continu
+
+J'améliore mes compétences à travers des projets concrets en développement web Full Stack.
+
+## 🎯 Objectif
+
+Transformer des idées en applications web performantes et utiles.
