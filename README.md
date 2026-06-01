@@ -8,7 +8,7 @@ Passionnée par le développement d'applications web modernes, performantes et i
 
 ## ⚡ Technologies
 
-React.js • Node.js • Express.js • MySQL • JavaScript • HTML • CSS
+React.js • Node.js • Express.js • MySQL • JavaScript • HTML • CSS • Git
 
 ## 🚀 Ce que j'aime construire
 
