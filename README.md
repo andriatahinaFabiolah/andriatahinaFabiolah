@@ -4,7 +4,7 @@ Je suis Andriatahina Fabiolah
 
 💻 Développeuse Web Full Stack
 
-Passionnée par le développement d'applications web modernes avec React.js, Node.js et Express.js.
+Passionnée par le développement d'applications web modernes, performantes et intuitives.
 
 ## ⚡ Technologies
 
